@@ -1,64 +1,62 @@
-**# Bot de Compra-Venta de Wallets de Solana | Metodo Sol-Incinerator**
+**# Solana Wallet Buy-Sell Bot | Sol-Incinerator Method**
 
-### Como Adquirir el BOT
-Si quieres adquirir este BOT ponte en contacto con (https://t.me/ceferinsoftware), tambien puedes entrar en mi canal privado para estar atento a nuevos BOTS que incluyo (https://t.me/ceferinsoftware_news)
+### How to Acquire the BOT
+If you want to acquire this BOT, contact (https://t.me/ceferinsoftware), you can also join my private channel to stay updated on new BOTS I add (https://t.me/ceferinsoftware_news)
 
-### Descripción del Producto
-Nuestro bot de compra-venta de wallets en Solana es una herramienta poderosa diseñada para automatizar y poder obtener todo el SOL que hay en wallets que no hayan reclamado el cierre de cuentas, brindando a los propietarios del bot la capacidad de generar ingresos recurrentes de manera rápida y sin complicaciones, con un proceso sencillo y soporte del creador.
+### Product Description
+Our Solana wallet buy-sell bot is a powerful tool designed to automate and obtain all the SOL that is in wallets that have not claimed account closures, providing bot owners with the ability to generate recurring income quickly and effortlessly, with a simple process and creator support.
 
-### Lo Que Ofrecerás a Tus Clientes
-Como propietario del BOT del Telegram, te presentarás a los clientes como un servicio especializado en la compra y venta de wallets de Solana, donde los usuarios pueden evaluar y vender sus wallets basándose en el historial de transacciones y la antigüedad de las mismas. El BOT automatiza el proceso de tasación y oferta, proporcionando una experiencia fluida y segura. Los clientes creen que compras wallets con buen historial para venderlo a desarrolladores que en su mayoria crean Memecoins en Pump.Fun
+### What You Will Offer to Your Clients
+As the owner of the Telegram BOT, you will present yourself to clients as a specialized service in buying and selling Solana wallets, where users can evaluate and sell their wallets based on transaction history and wallet age. The BOT automates the appraisal and offer process, providing a smooth and secure experience. Clients believe that you buy wallets with good history to sell them to developers, most of whom create Memecoins on Pump.Fun.
 
-### Lo Que Realmente Hace el Bot
-Detrás de la interfaz amigable, el bot ejecuta un análisis detallado de las wallets enviadas por los usuarios. Verifica cuántas cuentas de memecoins o tokens asociados están abiertas y sin cerrar (pudiendo obtener asi aproximadamente 0.002 SOL por cada una). Estos tokens no reclamados pueden ser quemados utilizando herramientas como **sol-incinerator**, permitiendo recuperar el SOL contenido en estas cuentas. 
+### What the Bot Really Does
+Behind the friendly interface, the bot performs a detailed analysis of the wallets submitted by users. It verifies how many associated memecoin or token accounts are open and not closed (which can yield approximately 0.002 SOL per account). These unclaimed tokens can be burned using tools like **sol-incinerator**, allowing you to recover the SOL contained in these accounts.
 
-La gracia del metodo es que muchos usuarios no saben de esta caracteristica y amontonan mucho SOL en sus wallets sin reclamar, aqui es donde entramos nosotros!
+The trick of the method is that many users are unaware of this feature and accumulate a lot of SOL in their wallets without claiming it, and that's where we come in!
 
-El bot proporciona una oferta automática basada en un porcentaje configurable de recuperación de SOL. Como propietario del BOT, decides si quedarte con el 100% del SOL recuperado o cumplir con el porcentaje de pago prometido al usuario que vendió la wallet (Recuerda que al fin y al cabo estas dando un servicio, puedes cumplirlo o no, depende de ti, el BOT esta diseñado para que lo hagas, pero tu decides). Esta flexibilidad permite adaptar tu estrategia de negocio a tus necesidades...
+The bot provides an automatic offer based on a configurable percentage of SOL recovery. As the BOT owner, you decide whether to keep 100% of the recovered SOL or fulfill the promised payment percentage to the user who sold the wallet (Remember, you are ultimately providing a service—you may choose to fulfill it or not. The BOT is designed for this purpose, but the decision is yours). This flexibility allows you to adapt your business strategy to your needs...
 
-### Sistema de Referidos
-El bot incluye un sistema de referidos que incentiva a los usuarios a promocionar la plataforma. Los referidos pueden ganar un porcentaje del valor de las wallets que traigan, pero como propietario del BOT, tienes el control para decidir si otorgar este porcentaje o retenerlo según tus preferencias...
+### Referral System
+The bot includes a referral system that incentivizes users to promote the platform. Referrals can earn a percentage of the value of the wallets they bring, but as the BOT owner, you have control to decide whether to grant this percentage or retain it as you see fit...
 
-### Características Principales
-1. **Conexión Rápida y Sencilla**: Los propietarios pueden configurar el bot ingresando el hash ID de su bot en Telegram, su ID de Telegram y la licencia correspondiente cuando adquieres este BOT.
-2. **Tasación Automática de Wallets**: Los usuarios envían sus wallets y reciben una oferta automática calculada según la cantidad de cuentas de tokens o memecoins que tienen sin cerrar, por lo tanto detecta cuanto SOL exactamente tiene pendiente de reclamar dicha wallet.
-3. **Sistema de Referidos**: Aumenta la expansión del uso del bot y genera ingresos adicionales con un sistema que recompensa a los promotores. Con esto obtendras mas wallets que llegan directamente a tu TG de administrador, tu decides si cumplir y darle la cantidad que hayas indicado a los referidos o no.
-4. **Control Total sobre los Ingresos**: Tú decides el porcentaje de ganancia que retienes de cada transacción y cómo se distribuyen los beneficios. Con esto indicamos que puedes indicar el % que quieres darle a la persona que te vende una wallet y a los referidos.
-5. **Gestión de Transacciones**: Interfaz para administrar y monitorear las transacciones de manera efectiva desde el TG del administrador.
+### Key Features
+1. **Quick and Easy Connection**: Owners can configure the bot by entering their bot's hash ID in Telegram, their Telegram ID, and the corresponding license when acquiring the BOT.
+2. **Automatic Wallet Appraisal**: Users send their wallets and receive an automatic offer calculated based on the number of open token or memecoin accounts, allowing the bot to detect exactly how much SOL is pending claim from that wallet.
+3. **Referral System**: Expand bot usage and generate additional income with a system that rewards promoters. This will get more wallets directly to your admin TG, and you decide whether to fulfill and give the indicated amount to the referrals or not.
+4. **Total Control Over Income**: You decide the percentage of profit you retain from each transaction and how the benefits are distributed. This means you can specify the percentage to give to the person selling you a wallet and to the referrals.
+5. **Transaction Management**: Interface to manage and monitor transactions effectively from the admin TG.
 
+### Instructions for Using the Bot
+#### 1. **Initial Setup**:
+   - **Step 1**: Create a bot in Telegram using [@BotFather](https://core.telegram.org/bots#botfather) and obtain the bot access token. (Free)
+   - **Step 2**: Log in to your Telegram account and find your Telegram ID using bots like [@userinfobot](https://t.me/userinfobot). (Free)
+   - **Step 3**: Enter the license we sent you when you acquired the bot.
+   - **Step 4**: Enter the access token (hash ID) and your Telegram ID in the bot's configuration.
 
-### Instrucciones de Uso del Bot
-#### 1. **Configuración Inicial**:
-   - **Paso 1**: Crea un bot en Telegram usando [@BotFather](https://core.telegram.org/bots#botfather) y obtén el token de acceso del bot. (Gratis)
-   - **Paso 2**: Inicia sesión en tu cuenta de Telegram y encuentra tu ID de Telegram usando bots como [@userinfobot](https://t.me/userinfobot). (Gratis)
-   - **Paso 3**: Introduce la licencia que te hemos mandando cuando has adquirido el bot.
-   - **Paso 4**: Introduce el token de acceso (hash ID) y tu ID de Telegram en la configuración del bot.
-   
+#### 2. **Using the Bot**:
+   - **Share the Bot**: Share your bot's username with others so they can start interacting. The username you created in @BotFather.
+   - **Submit Wallets**: Users access the bot and can submit their wallet addresses to receive offers.
+   - **Offer Receipt**: The bot automatically evaluates the submitted wallet and generates an offer based on the percentage you specified and the SOL pending claim.
+   - **Accept the Offer**: If the user accepts the offer, they are asked for a secondary wallet where they want to receive the agreed SOL. They are then asked to provide the secret phrase of the wallet they are selling.
+   - **Profit Distribution**: Once the secret phrase is submitted, you receive all the details in your admin TG. You then just need to open that wallet, claim the SOL that was pending, and transfer it to your wallet. You then decide whether to give the agreed percentage to the seller or keep it all—this is up to your moral judgment.
 
-#### 2. **Uso del Bot**:
-   - **Compartir el Bot**: Comparte el nombre de usuario de tu bot con otras personas para que puedan iniciar la interacción. El nomnbre de usuario que creaste en @BotFather
-   - **Enviar Wallets**: Los usuarios acceden al bot y pueden enviar sus direcciones de wallets para recibir ofertas por ellas.
-   - **Recepción de Oferta**: El bot evalúa automáticamente la wallet enviada y genera una oferta basado en el porcentaje que indicaste y el SOL que tiene pendiente sin reclamar.
-   - **Aceptar la Oferta**: Si el usuario acepta la oferta, se le pide una wallet secundaria donde quiera recibir el SOL pactado, despues se le pide que envie la frase secreta de la wallet que va a vender.
-   - **Distribución de Ganancias**: Una vez envia la frase secreta recibes todos los datos en tu TG de admin, ahora solo debes abrir esa wallet, conseguir el SOL que estaba sin reclamar y pasarlo a tu wallet, ahora tu decides si darle el % que habias pactado con el vendedor o quedartelo todo, lo dejo a tu criterio moral.
+#### 3. **Referral System**:
+   - **Generate Referral Links**: Each user of the bot can obtain a unique link to refer others, whether they have sold a wallet or not. This helps you get people working for you.
+   - **Referral Rewards**: If a referral completes a wallet sale, the user who made the referral can receive up to a percentage of the transaction value. You decide this value.
+   - **Referral Payment Configuration**: The bot owner has the option to enable or disable the payment of rewards to referrals and define the percentage of these rewards.
 
-#### 3. **Sistema de Referidos**:
-   - **Generar Enlaces de Referencia**: Cada usuario del bot puede obtener un enlace único para referir a otros. Haya vendido una wallet o no, esto te ayuda a conseguir gente que trabaje por ti.
-   - **Recompensas de Referidos**: Si un referido completa una venta de wallet, el usuario que hizo la referencia puede recibir hasta un % del valor de la transacción. Este valor lo decides tu.
-   - **Configuración de Pagos a Referidos**: El propietario del bot tiene la opción de activar o desactivar el pago de recompensas a los referidos y definir el porcentaje de estas recompensas.
+### Technical Specifications
+- **Platform**: Telegram.
+- **Compatibility**: Mobile and desktop devices.
+- **Connection**: Integration via hash ID and license.
 
-### Ficha Técnica
-- **Plataforma**: Telegram.
-- **Compatibilidad**: Dispositivos móviles y de escritorio.
-- **Conexión**: Integración mediante hash ID y licencia.
+### Reference Links and Demonstrations
+- Links to videos and detailed tutorials to facilitate configuration and usage will be added soon.
 
-### Enlaces de Referencia y Demostraciones
-- Próximamente se añadirán enlaces a videos y tutoriales detallados para facilitar la configuración y el uso.
+### Final Note
+This bot is designed to trick and find users who have wallets with unclaimed SOL, from accounts that remain open with memecoins, tokens, NFTs...
 
-### Nota Final
-Este bot está diseñado para engañar y encontrar a usuarios que tienen wallets con SOL sin reclamar, de cuentas sin cerrar de memecoins, tokens, nfts... 
+Even if they have no balance in those tokens or no SOL, there is still unclaimed SOL due to all the accounts that remain open. This is because of how the Solana network works. Therefore, with this BOT and the instructions I will provide, you will be able to obtain a lot of SOL for free! You only need our BOT!
 
-Pese a que no tengan saldo en esos tokens ni tenga SOL si que tiene SOL sin reclamar a causa de todas las cuentas sin cerrar, esto es a causa de como trabaja la red de Solana, por lo tanto gracias a este BOT y las instrucciones que te voy a dar podras conseguir mucho SOL de forma totalmente gratis! Solo necesitas nuestro BOT!
-
-### Como Adquirir el BOT
-Si quieres adquirir este BOT ponte en contacto con (https://t.me/ceferinsoftware), tambien puedes entrar en mi canal privado para estar atento a nuevos BOTS que incluyo (https://t.me/ceferinsoftware_news)
+### How to Acquire the BOT
+If you want to acquire this BOT, contact (https://t.me/ceferinsoftware), you can also join my private channel to stay updated on new BOTS I add (https://t.me/ceferinsoftware_news)
